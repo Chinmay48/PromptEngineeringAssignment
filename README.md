@@ -1,4 +1,4 @@
-# ### Prompt Engineering Assignment – Front-End Development Intern
+#  Prompt Engineering Assignment – Front-End Development Intern
 
 This repository contains the AI-generated output for my Prompt Engineering Assignment.  
 All website sections were created entirely using AI tools with **no manual code editing**, as required.
