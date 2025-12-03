@@ -53,15 +53,5 @@ Example:
 
 
 
-## 📌 Notes
-This project follows the strict rule:
-
-**"Generated code output (no manual editing)"**
-
-Any corrections or improvements were done using **prompt refinement only**, not by editing the code manually.
-
----
-h  
-
 
 
